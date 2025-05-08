@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "producerTest": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
